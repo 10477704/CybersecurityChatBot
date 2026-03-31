@@ -26,5 +26,12 @@ A console-based chatbot that educates users about cybersecurity best practices i
 ## GitHub Actions Status
 ![Build Status](link-to-your-green-checkmark-screenshot)
 
+## References
+
+- Deitel, P. & Deitel, H. 2020. *C# How to Program*. 8th ed. London: Pearson Education.
+- DeepSeek (AI Assistant). 2026. *Assistance with C# Cybersecurity Chatbot Development*. Available at: https://chat.deepseek.com [Accessed 31 March 2026].
+- GitHub. 2026. *GitHub Actions Documentation*. Available at: https://docs.github.com/en/actions [Accessed 31 March 2026].
+- Microsoft. 2026. *.NET Documentation - Console Application Development*. Available at: https://learn.microsoft.com/en-us/dotnet/ [Accessed 31 March 2026].
+
 ## Author ##
 Thabang Chepape
