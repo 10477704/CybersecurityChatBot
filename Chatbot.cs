@@ -25,7 +25,7 @@ namespace CybersecurityChatbot
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("❌ Name cannot be empty!");
                 Console.ResetColor();
-                Console.Write("What's your name? ");
+                Console.Write("name? ");
                 userName = Console.ReadLine();
             }
 
