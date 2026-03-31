@@ -1,0 +1,28 @@
+# Cybersecurity Awareness Chatbot
+
+A console-based chatbot that educates users about cybersecurity.
+
+## Features
+- Voice greeting
+- ASCII art logo
+- Personalized responses
+- Input validation
+- Typing effect
+- Color formatting
+
+## How to Run
+1. Clone this repository
+2. Open in Visual Studio
+3. Press F5
+
+## Topics
+- Password safety
+- Phishing scams
+- Safe browsing
+
+## GitHub Actions Status
+✅ Build passing
+
+## Author
+Thabang Chepape
+[Your Name]
